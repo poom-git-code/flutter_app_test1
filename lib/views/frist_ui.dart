@@ -22,13 +22,10 @@ class FristUI extends StatelessWidget {
           Icons.add
         ),
       ),
-      
-      
-
       floatingActionButtonLocation: FloatingActionButtonLocation.startFloat,
       body: Center(
         child: Text(
-          'Hello Everyone',
+          'Hello Everybody',
           style: TextStyle(
             fontSize: 30,
             fontWeight: FontWeight.bold
